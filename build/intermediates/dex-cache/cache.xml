@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\INSTITUT\2015-2016\2DAM-MP08-PMDM\UF2\EXEMPLES\GravacioDeVideo\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_slice.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f0b5f53043d4d7eced87a93952b58f5b97e71cb7">
+        <dex dex="F:\INSTITUT\2015-2016\2DAM-MP08-PMDM\UF2\EXEMPLES\GravacioDeVideo\app\build\intermediates\transforms\dex\debug\folders\1000\5\main_slice_2365d5ebb06a2abc182627bbaa7c8fbbc2f174dc\classes.dex" />
+    </item>
+    <item
+        jar="F:\INSTITUT\2015-2016\2DAM-MP08-PMDM\UF2\EXEMPLES\GravacioDeVideo\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_slice.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e51c7c39fea6e53a4aaa51ad2860e0e006f71a5e">
+        <dex dex="F:\INSTITUT\2015-2016\2DAM-MP08-PMDM\UF2\EXEMPLES\GravacioDeVideo\app\build\intermediates\transforms\dex\debug\folders\1000\5\main_slice_2365d5ebb06a2abc182627bbaa7c8fbbc2f174dc\classes.dex" />
+    </item>
+    <item
+        jar="F:\INSTITUT\2015-2016\2DAM-MP08-PMDM\UF2\EXEMPLES\GravacioDeVideo\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_sliceb.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="77cd169579c7c39cc25ba276b7c67493e20fbb59">
+        <dex dex="F:\INSTITUT\2015-2016\2DAM-MP08-PMDM\UF2\EXEMPLES\GravacioDeVideo\app\build\intermediates\transforms\dex\debug\folders\1000\5\main_sliceb_e132a9ca8fb2352ef500b873a15aaddd7136918a\classes.dex" />
+    </item>
+    <item
+        jar="F:\INSTITUT\2015-2016\2DAM-MP08-PMDM\UF2\EXEMPLES\GravacioDeVideo\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\1a\dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="acb0d973520f1ca423d5fe83a108d1757ed76b3e">
+        <dex dex="F:\INSTITUT\2015-2016\2DAM-MP08-PMDM\UF2\EXEMPLES\GravacioDeVideo\app\build\intermediates\transforms\dex\debug\folders\1000\1a\dependencies_e18afde756753847c2f63bed60a2c4f822b2492e\classes.dex" />
+    </item>
+    <item
+        jar="F:\INSTITUT\2015-2016\2DAM-MP08-PMDM\UF2\EXEMPLES\GravacioDeVideo\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\1a\dependencies.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db84358106750f8cacd33e0e54c5faa6896ac76a">
+        <dex dex="F:\INSTITUT\2015-2016\2DAM-MP08-PMDM\UF2\EXEMPLES\GravacioDeVideo\app\build\intermediates\transforms\dex\debug\folders\1000\1a\dependencies_e18afde756753847c2f63bed60a2c4f822b2492e\classes.dex" />
+    </item>
+    <item
+        jar="F:\INSTITUT\2015-2016\2DAM-MP08-PMDM\UF2\EXEMPLES\GravacioDeVideo\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_sliceb.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0887f09043cf97a4748c17cee69247a10adf801d">
+        <dex dex="F:\INSTITUT\2015-2016\2DAM-MP08-PMDM\UF2\EXEMPLES\GravacioDeVideo\app\build\intermediates\transforms\dex\debug\folders\1000\5\main_sliceb_e132a9ca8fb2352ef500b873a15aaddd7136918a\classes.dex" />
+    </item>
+
+</items>
